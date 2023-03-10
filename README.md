@@ -1,5 +1,5 @@
 # Renderz_Hackdays-Sellular
-Web Based Chat App Using Python , HTML , CSS and PHP 
+Web Based Chat App Using  HTML , CSS and PHP 
 # RENDER
 > SMART , EFFICIENT CHAT APP THAT MAKES LIFE EASIER
 
@@ -7,7 +7,7 @@ Web Based Chat App Using Python , HTML , CSS and PHP
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Render is a new web chat app built using Python, HTML, CSS, and PHP. The app provides a modern and intuitive user interface that makes it easy to chat with friends and family in real-time. The app's backend is built using Python and PHP, making it a robust and scalable solution for handling large numbers of users.
+Render is a new web chat app built using  HTML, CSS, and PHP. The app provides a modern and intuitive user interface that makes it easy to chat with friends and family in real-time. The app's backend is built using PHP making it a robust and scalable solution for handling large numbers of users.
 
 The frontend of the app is built using HTML and CSS, providing a responsive design that works seamlessly across all devices, including desktops, laptops, tablets, and smartphones. Render offers a range of features, including real-time messaging, file sharing, and group chat functionality, making it a powerful tool for both personal and professional use. Overall, Render is a promising new web chat app that provides a modern and reliable solution for staying connected with others online.
 
