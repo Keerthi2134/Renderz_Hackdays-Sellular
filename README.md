@@ -1,13 +1,13 @@
 # Renderz_Hackdays-Sellular
 Web Based Chat App Using  HTML , CSS and PHP 
-# RENDER
+# RENDERz
 > SMART , EFFICIENT CHAT APP THAT MAKES LIFE EASIER
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Render is a new web chat app built using  HTML, CSS, and PHP. The app provides a modern and intuitive user interface that makes it easy to chat with friends and family in real-time. The app's backend is built using PHP making it a robust and scalable solution for handling large numbers of users.
+Renderz is a new web chat app built using  HTML, CSS, and PHP. The app provides a modern and intuitive user interface that makes it easy to chat with friends and family in real-time. The app's backend is built using PHP making it a robust and scalable solution for handling large numbers of users.
 
 The frontend of the app is built using HTML and CSS, providing a responsive design that works seamlessly across all devices, including desktops, laptops, tablets, and smartphones. Render offers a range of features, including real-time messaging, file sharing, and group chat functionality, making it a powerful tool for both personal and professional use. Overall, Render is a promising new web chat app that provides a modern and reliable solution for staying connected with others online.
 
@@ -31,6 +31,10 @@ edit autoexec.bat
 ## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+
+![Web capture_11-3-2023_115428_renderztest netlify app](https://user-images.githubusercontent.com/97333533/224468898-fe534dd9-deac-4390-be0c-923b556ff0e3.jpeg)
+
+![Web capture_11-3-2023_115754_renderztest netlify app](https://user-images.githubusercontent.com/97333533/224469007-c0f7a2ee-f700-4e52-9722-df965718838e.jpeg)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
@@ -60,11 +64,13 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Keerthivasan – [@YourLinkedin](https://www.linkedin.com/in/keerthivasanr2134/) – keerthivasanrk18@gmail.com
+Ashwin       - [@YourLinkedin](https://www.linkedin.com/in/ashwin-r-707356255/)
+Kavin        - [@YourLinkedin](https://www.linkedin.com/in/kavin-bharathi-081577252/)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE(https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing)`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/yourname/github-link]()
 
 ## Contributing
 
