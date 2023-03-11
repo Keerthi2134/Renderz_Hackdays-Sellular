@@ -1,0 +1,133 @@
+body{
+    background-color: rgba(246,246,246,255);
+    margin: 12px;
+    
+}
+
+
+form{
+    background-color: rgba(255,255,255,255);
+    height: 100%;
+    width: 70%;
+    border-radius:12px;
+    
+}
+
+.sub-text{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+
+
+}
+
+.low-text{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+
+
+}
+
+.cred a{
+    display: inline-block;
+    padding: 8px 20px;
+    background: rgba(53,152,220,255);
+    color: rgba(224,247,250,255);
+    border-radius: 6px;
+    font-weight: 900;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    width: 24%;
+    height: 100%;
+    text-decoration: none;   
+    border-style:solid;  
+}
+
+.cred a:hover{
+    opacity: 0.8;
+}
+
+.btm-text{
+    color: rgba(178,178,178,255);
+    font-size: 12px;
+}
+
+
+
+
+
+span{
+    color:	#0000CD;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+
+
+@media only screen and (max-width:703px){
+    .cred a{
+        display: inline-block;
+        padding: 8px 20px;
+        background: rgba(53,152,220,255);
+        color: rgba(224,247,250,255);
+        border-radius: 6px;
+        font-weight: 900;
+        font-size: 16px;
+        letter-spacing: 0.5px;
+        width: 24%;
+        height: 100%;
+        text-decoration: none;   
+        border-style:solid;  
+    }
+}
+
+
+@media only screen and (max-width:3000px){
+    .cred a{
+        width: 15%;
+    }
+}
+
+@media only screen and (max-width:1110px){
+    .cred a{
+        width: 18%;
+    }
+}
+
+@media only screen and (max-width:929px){
+    .cred a{
+        width: 25%;
+    }
+}
+
+
+
+@media only screen and (max-width:703px){
+    .cred a{
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width:568px){
+    .cred a{
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width:504px){
+    .cred a{
+        width: 50%;
+    }
+    .low-text{
+        font-size: 16px;
+}
+
+@media only screen and (max-width:350px){
+    .cred a{
+        width: 60%;
+    }
+}
+}
